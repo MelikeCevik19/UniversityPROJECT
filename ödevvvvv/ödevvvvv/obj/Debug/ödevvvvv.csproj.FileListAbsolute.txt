@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\bin\Debug\ödevvvvv.exe.config
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\bin\Debug\ödevvvvv.exe
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\bin\Debug\ödevvvvv.pdb
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.Form1.resources
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.exe
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.pdb
+C:\Users\HUAWEI\source\repos\ödevvvvv\ödevvvvv\obj\Debug\ödevvvvv.exe.config
